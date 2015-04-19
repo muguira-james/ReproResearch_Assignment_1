@@ -10,10 +10,11 @@ activity.csv file and analyze the results.
 The R markdown assumes the data file has been downloaded and unzipped.
 
 Files in the directory:
-PA1_template.R   - an R script where I worked out all the steps
-PA1_template.Rmd - the kniter file
-READMR.md        - this file
-activity.csv     - the data file
+* PA1_template.R   - an R script where I worked out all the steps
+* PA1_template.Rmd - the kniter input file
+* PA1_template.html- the kniter genrated output file
+* READMR.md        - this file
+* activity.csv     - the data file
 
 
 
