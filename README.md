@@ -1,5 +1,5 @@
 # ReproducibleResearch
-Coursera reproducible research certification class
+Coursera / Johns Hopkins Data Science certification class
 
 This repository contains the first peer assignment.
 
