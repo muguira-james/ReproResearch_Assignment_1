@@ -13,7 +13,7 @@ Files in the directory:
 * PA1_template.R   - an R script where I worked out all the steps
 * PA1_template.Rmd - the kniter input file
 * PA1_template.html- the kniter genrated output file
-* READMR.md        - this file
+* README.md        - this file
 * activity.csv     - the data file
 
 
